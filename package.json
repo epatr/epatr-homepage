@@ -1,0 +1,11 @@
+{
+  "name": "epatr-homepage",
+  "version": "1.0.0",
+  "description": "A browser homepage for the one and only epatr",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Patrick",
+  "license": "ISC"
+}
